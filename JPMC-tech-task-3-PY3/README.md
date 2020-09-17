@@ -3,7 +3,7 @@
 ## This is the 3rd Task given by JP Morgan Chase & Co.
  Here you will learn to Use Perspective to create the chart for the trader’s dashboard.
 
-You can read more instructions in the **<a href="instuctions.md">instructions</a>** file
+You can read more instructions in the **<a href="Instuctions.md">instructions</a>** file
 
 **Also dont forget to add the files from the below link to the ***node_modules*** folder.** 
 
